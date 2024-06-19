@@ -11,4 +11,6 @@ pandas
 pip
 python-dotenv
 scikit-learn
--e .
+seaborn
+missingno
+
